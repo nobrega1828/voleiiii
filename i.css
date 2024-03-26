@@ -1,0 +1,27 @@
+body {
+            background-color: tomato;
+        }
+        title {
+            color:black
+        }
+        h1 {
+            color: black;
+            text-align:center;
+        }
+        p {
+            color: aqua;
+        }
+        p1 {
+            color: red;
+        }
+        p2 {
+            color: blue;
+        }
+        table, th, td {
+            text-align:center;
+            border: 1px solid;
+            width: 80%;
+        }
+        a {
+            text-align:right;
+        }
